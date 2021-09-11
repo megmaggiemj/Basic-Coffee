@@ -56,6 +56,8 @@ body::before {
     padding: 50px 0px;
     border-right: solid;
     border-color: black;
+    z-index: 5;
+
   }
   #navbar a {
     display: block;
